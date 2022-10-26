@@ -1,4 +1,4 @@
-import { ListaTarefas } from "./components/ListaTarefas";
+import { ListaTarefas } from "./components/ListaTarefas/ListaTarefas";
 import { GlobalStyle } from "./GlobalStyle";
 
 
